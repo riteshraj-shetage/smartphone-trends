@@ -1,4 +1,4 @@
-# 📱 Smartphone Trends Project
+# 📱 Smartphone Trends
 
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 ![Made with R](https://img.shields.io/badge/made%20with-R-blue)
